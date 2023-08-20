@@ -1,0 +1,18 @@
+    O DESAFIO PROPOSTO SE PASSA EM UM CRIAR DADOS PARA UMA IMPLEMENTAÇÃO E_COMMERCE
+
+ONDE CRIA-SE TABELAS PARA COLOCAR EM PRÁTICA TODO AMBIENTE E_COMMERCE
+
+ONDE FORAM EXIGIDOS RECUPERAÇÕES SIMPLES COM STATEMENT ,
+CLÁUSULA WHERE JUNTO COM O COMANDO SELECT ESPECIFICA QUAIS REGISTROS DEVEM SER RETORNADOS NA CONSULTA.
+
+GROUP BY = A cláusula GROUP BY agrupa linhas baseado em semelhanças entre elas;
+
+ORDER BY =  organiza os resultados de acordo com uma ou mais colunas da tabela, podendo definir a ordem do resultados como crescente ou decrescente. 
+
+DELETE = apaga os dados de tabelas e colunas .
+
+DROP = descarta uma tabela de banco de dados.
+
+ALTER TABLE = altera dados numa tabela,
+
+DROP TABLE OU DROP DATABASE = APAGA TABELAS E BANCO DE DADOS.
