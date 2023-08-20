@@ -15,7 +15,7 @@ constraint unique_cpf_cliente unique (CPF));
 
 alter table cliente auto_increment = 1;
 
-insert into cliente (PNome, SNome, UNome, CPF, Endereço)
+insert into cliente (PName, SName, UName, CPF, Endereço)
 values ('Nolan', 'K', 'Morgan', 123467809, 'rua Klinton 29, New York - Street Flowers'),
        ('JOSH', 'O', 'Glover', 0007654321, 'rua Cloud 89, New Jersey - Fift Avenue'),
        ('Mark', 'F', 'Klot', 11178913, 'Avenue Jersey 1009, Center - Kansas City'),
