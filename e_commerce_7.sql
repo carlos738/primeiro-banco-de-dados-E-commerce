@@ -15,12 +15,12 @@ constraint unique_cpf_cliente unique (CPF));
 alter table cliente auto_increment = 1;
 
 insert into cliente (PNome, SNome, UNome, CPF, Endereço)
-values ('Nolan', 'K', 'Morgan', 123467809, 'rua Klinton 29, New York - Street Flowers'),
-       ('JOSH', 'O', 'Glover', 0007654321, 'rua Cloud 89, New Jersey - Fift Avenue'),
-       ('Mark', 'F', 'Klot', 11178913, 'Avenue Jersey 1009, Center - Kansas City'),
-       ('Justin', 'S', 'Spark', 983124546, 'Rua P 81, Center - Park 2'),
-       ('Tea', 'G', 'Brigthon', 06945897, 'Street Five, Center - Texas'),
-       ('Bela', 'M', 'Creed', 6540789123, 'Street One 28, Center - San Francisco');
+values ('Topper', 'K', 'Morgan', 123989822, 'rua Klinton 01, New York - Street Flowers'),
+       ('Brock', 'O', 'Glover', 0007888211, 'rua Cloud 89, New Jersey - Fift Avenue'),
+       ('Mark', 'F', 'Klot', 11178913, 'James Park 1009, Center - Kansas City'),
+       ('Sam', 'S', 'Spark', 983178746, 'Rua P 81, Center - Park 2'),
+       ('Teha', 'G', 'Brigthon', 06945897, 'Street Five, Center - Texas'),
+       ('Broclin', 'M', 'Creed', 000089123, 'Street One 28, Center - San Francisco');
 
 select * from cliente;
 
